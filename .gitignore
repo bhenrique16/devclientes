@@ -1,0 +1,19 @@
+
+
+# Arquivos de dependência
+node_modules/
+bower_components/
+
+# Arquivos de credenciais
+.env
+.env.local
+.env.*.local
+
+# Arquivos de saída do editor
+*.swp
+*.swo
+*.swn
+*.swm
+
+# Dependências específicas do projeto (personalize conforme necessário)
+# Exemplo: /libs/my-specific-library
