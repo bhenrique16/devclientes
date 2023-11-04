@@ -1,4 +1,3 @@
-.imagem-reduzida {
-  width: 200px; /* Defina a largura desejada */
-  height: auto; /* Mantenha a proporção original da imagem */
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
